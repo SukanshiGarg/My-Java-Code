@@ -3,6 +3,7 @@ public class basicmaths {
         int number = 30; // Replace with any integer you want to find divisors for
         System.out.println("Divisors of " + number + " are:");
         primeNum(number);
+        
     }
 
     public static void divisorsNum(int n) {
@@ -12,6 +13,7 @@ public class basicmaths {
             }
         }
     }
+
 
     public static void divisorNumb(int n) {
         int i = 0;
