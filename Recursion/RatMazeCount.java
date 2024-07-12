@@ -1,6 +1,6 @@
 package Recursion;
 
-public class RatMaze2 {
+public class RatMazeCount {
     public static void main(String[] args) {
         int rows=4;
         int cols=3;
