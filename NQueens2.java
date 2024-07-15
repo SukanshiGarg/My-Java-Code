@@ -1,4 +1,8 @@
+// sm 
+
 import java.util.*;
+
+
 public class NQueens2 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
