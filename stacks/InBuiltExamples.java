@@ -8,7 +8,9 @@ public class InBuiltExamples {
     stack.push(2);
     stack.push(9);
     stack.push(18);
+    
 
+    //LAst In First out 
     System.out.println(stack.pop());
     System.out.println(stack.pop());
     System.out.println(stack.pop());
