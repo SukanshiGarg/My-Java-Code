@@ -1,3 +1,7 @@
+//  for static variable usage 
+
+
+
 package OOPS;
 
 class PLayerr{
