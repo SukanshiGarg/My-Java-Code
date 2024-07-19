@@ -1,3 +1,4 @@
+package basic;
 public class basicmaths {
     public static void main(String[] args) {
         int number = 30; // Replace with any integer you want to find divisors for

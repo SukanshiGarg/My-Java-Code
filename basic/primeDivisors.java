@@ -1,3 +1,4 @@
+package basic;
 import java.util.*;
 public class primeDivisors{
     public static void  divisors(int n){
