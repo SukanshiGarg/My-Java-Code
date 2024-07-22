@@ -24,20 +24,26 @@ public class QueueB {
             if(rear==arr.length-1){
                 System.out.println("Queue is already full");
             }
-            arr[rear+1]=data;
+            rear=rear+1;
+            arr[rear]=data;
         }
         //remove
         public static int remove(){
+            //underflow
             if(rear == -1){
                 System.out.println("The queue is empty ");
                 return -1;
             }
-            int front = arr[0];
-            for(int i=0 ; i<  rear ; i++){
-                arr[i]=arr[i+1];
+           else{
+
+            int frontItem= arr[front]; // get the front element
+            front++;
+            if(front>rear){
+                front =0;
+                rear=-1;
             }
-            rear=rear-1;
-            return front;
+            return frontItem;
+           }
         }
         //peek
         public static int peek(){
@@ -56,7 +62,7 @@ public class QueueB {
 
         while(!q.isEmpty()){
             System.out.println(q.peek());
-            q.peek();
+            q.remove();
         }
 
     }
