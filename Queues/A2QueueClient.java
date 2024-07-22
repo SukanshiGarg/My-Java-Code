@@ -1,8 +1,8 @@
-package Queuess;
+package Queues;
 
-public class QueueClient {
+public class A2QueueClient {
     public static void main(String[] args) {
-        QueueImplementation.Queue1 queue = new QueueImplementation.Queue1(5);
+        A1QueueImplementation.Queue1 queue = new A1QueueImplementation.Queue1(5);
 
         System.out.println("Enqueuing elements:");
         queue.Enqueue(10);

@@ -1,6 +1,6 @@
-package Queuess;
+package Queues;
 
-public class QueueImplementation {
+public class A1QueueImplementation {
 
     public static class Queue1{
         private int[] arr;

@@ -1,4 +1,4 @@
-package Queuess;
+package stacks;
 import java.util.*;
 
 public class StackInsertion {
