@@ -12,5 +12,17 @@ public class test {
         // Expected output:
         // This is the grandparent constructor!
         // false
+
+        child ch1 = new child();
+        ch1.setName("Sukanshi Garg");
+        ch1.setAge(20);
+        
+        String name=ch1.getName();
+        int age=ch1.getAge();
+        System.out.println("The child's name is : "+ name);
+        System.out.println("The child's age is "+ age);
+
+        
+
     }
 }

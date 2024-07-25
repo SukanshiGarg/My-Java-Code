@@ -5,5 +5,8 @@ public class parent extends grandparent {
     public parent(){
         System.out.println("Parent Construct Called : ");
     }
+    public void parentMethod(){
+        
+    }
     
 }

@@ -15,7 +15,7 @@ public class grandparent {
     public boolean hasSuperPowers(){
         return hasSuperPowers;
     }
-    
+
     public int getAge(){
         return age;
     }
@@ -24,11 +24,11 @@ public class grandparent {
         return name;
     }
 
-    public void getName(String name){
+    public void setName(String name){
         this.name=name;
     }
 
-    public void getAge(int age){
+    public void setAge(int age){
         this.age=age;
     }
     
