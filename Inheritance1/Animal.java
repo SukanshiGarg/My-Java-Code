@@ -18,7 +18,7 @@ public class Animal {
     }
 
     public void eats(){
-        System.out.println("The animal eats grass! ");
+        System.out.println("This animal eats grass! ");
     }
 
     public void sayHello(){
