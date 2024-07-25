@@ -22,7 +22,9 @@ public class test {
         System.out.println("The child's name is : "+ name);
         System.out.println("The child's age is "+ age);
 
-        
+        ch1.childMethod();
+
+
 
     }
 }

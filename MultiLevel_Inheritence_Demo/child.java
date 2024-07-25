@@ -8,5 +8,10 @@ public class child extends parent{
         // in this case the parent class is called 
         System.out.println("This is the child constructor !");
     }
+
+    public void childMethod(){
+        super.parentMethod();
+        System.out.println("Child method called !");
+    }
     
 }
