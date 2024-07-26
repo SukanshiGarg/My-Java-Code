@@ -2,6 +2,10 @@ package Polymorphism_kk;
 
 public class Shapes {
 
-    c
+    void area(){
+        System.out.println("This is the area in shapes ! ");
+    }
+
+    
     
 }

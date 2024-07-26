@@ -2,6 +2,8 @@ package Polymorphism_kk;
 
 public class Circle extends Shapes {
 
-    System.out.println(box.l+ " "+ box.w+ " "+ box.h);
+    void area(){
+        System.out.println("This is the area in circle  : pie * r*r  ");
+    }
     
 }
