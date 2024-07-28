@@ -8,6 +8,8 @@ public class Main {
         Triangle triangle = new Triangle();
 
         shape.area();
+
+        
         circle.area();
         square.area();
         triangle.area();
