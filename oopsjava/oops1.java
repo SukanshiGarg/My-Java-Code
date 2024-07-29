@@ -22,3 +22,9 @@ public class oops1 {
     }
 
 }
+
+/* cLASS ATTRIBUTES : DATA MEMEBERS ARE ALSO KNOWN AS CLASS ATTRIBUTES IN JAVA 
+   FOR EG : String name;
+            int Roll_no;
+            String address;
+  */
