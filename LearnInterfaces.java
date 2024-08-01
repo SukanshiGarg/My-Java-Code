@@ -1,4 +1,4 @@
-package oopsjava;
+
 
 public class LearnInterfaces {
     public static void main(String args[]) {
