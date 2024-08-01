@@ -26,4 +26,5 @@ class Monkey implements Animal, Pet {
     public void eats() {
         System.out.println("Monkey is eating");
     }
+    
 }
