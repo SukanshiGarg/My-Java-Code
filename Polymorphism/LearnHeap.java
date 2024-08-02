@@ -1,3 +1,18 @@
+/*
+ Primitive vs Object Passing:
+
+When a primitive type (like int) is passed to a method, 
+Java passes a copy of the value, 
+so changes made to the parameter inside the method do not affect the original value.
+
+
+When an object is passed to a method,
+ Java passes a copy of the reference to the object. 
+ Thus, changes to the object's fields within the method do affect the original object.
+ */
+
+
+
 package Polymorphism;
 
 class Data {
@@ -22,15 +37,3 @@ public class LearnHeap {
 
 
 
-/*
- Primitive vs Object Passing:
-
-When a primitive type (like int) is passed to a method, 
-Java passes a copy of the value, 
-so changes made to the parameter inside the method do not affect the original value.
-
-
-When an object is passed to a method,
- Java passes a copy of the reference to the object. 
- Thus, changes to the object's fields within the method do affect the original object.
- */
