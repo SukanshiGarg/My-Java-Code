@@ -10,7 +10,7 @@ When an object is passed to a method,
  Java passes a copy of the reference to the object. 
  Thus, changes to the object's fields within the method do affect the original object.
 
- 
+
  */
 
 
@@ -27,7 +27,9 @@ public class LearnHeap {
         Data obj = new Data();
         obj.data = 5;
         changeValue(a, obj);
+        
         System.out.println(a);
+
         System.out.println(obj.data);
     }
 
