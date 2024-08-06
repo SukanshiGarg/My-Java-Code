@@ -10,7 +10,8 @@ public class CountFreqLetters {
             
              //ensure the letter is in lowercase
              if(c>='a' && c<='z'){
-                letterCounts[c-'a']++;      }
+                letterCounts[c-'a']++;       
+            }
         }
         //print the count of the letter
 
