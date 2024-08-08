@@ -13,8 +13,11 @@ public class TheNewYearParty {
         int median=points[1];
 
         //Calculate the total distance
-        int totalDistance=Math.abs(points[0]-median)+
+        int totalDistance=Math.abs(points[0]-median)+ Math.abs(points[1]-median)+Math.abs(points[2]-median);
 
+        System.out.println(totalDistance);
+       
+        sc.close();
 
 
 
