@@ -1,3 +1,7 @@
+ //Code forces
+
+ //Link : https://codeforces.com/problemset/problem/723/A
+ 
 import java.util.*;
 import java.util.Arrays;
 public class TheNewYearParty {
