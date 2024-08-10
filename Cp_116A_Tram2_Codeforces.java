@@ -9,6 +9,7 @@ public class Cp_116A_Tram2_Codeforces {
         for (int i = 0; i < n; i++) {
             int leave=sc.nextInt();     //num of ppl leaving
             int enter =sc.nextInt();
+            
 
             currentCap -= leave;
             currentCap += enter;
