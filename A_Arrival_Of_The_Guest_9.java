@@ -20,11 +20,11 @@ public class A_Arrival_Of_The_Guest_9{
 
         if(arr[i]>maxHeight){
             maxHeight=arr[i];
-            maxIndex=0;
+            maxIndex=i;
         }
-        if(arr[i]<minHeight){
+        if(arr[i]<=minHeight){
             minHeight=arr[i];
-            minIndex=0;
+            minIndex=i;
         }
 
     }
