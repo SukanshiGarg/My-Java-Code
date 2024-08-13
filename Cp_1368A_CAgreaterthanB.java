@@ -20,6 +20,7 @@ public class Cp_1368A_CAgreaterthanB {
         Scanner sc = new Scanner(System.in);
         
         // Read the number of test cases
+
         int T = sc.nextInt();
         int[] results = new int[T];
 
@@ -36,7 +37,7 @@ public class Cp_1368A_CAgreaterthanB {
             System.out.println(result);
         }
         
-        // Close the scanner
+        
         sc.close();
     }
 }
