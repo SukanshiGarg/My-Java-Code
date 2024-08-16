@@ -10,7 +10,7 @@ Output
 Print a single integer — the number of toasts each friend can make
  */
 import java.util.*;
-public class SoftDrinkCP {
+public class Cp_SoftDrink {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Sum_Of_Round_Numbers{
+public class CP_Sum_Of_Round_Numbers{
 
     // Function to decompose number into round numbers
     public static ArrayList<Integer> decomposeIntoRoundNumbers(int n) {
