@@ -1,4 +1,7 @@
 /*
+
+
+
 n=5;
 row: 1 to n i.e 1 to 5 
 task:spaces and stars
