@@ -1,5 +1,5 @@
-package pcph;
-import java.util.*;
+
+import java.util.Arrays;
 
 public class removeduplicatesfromarray {
     public static int[] removeDuplicates(int arr[]) {
