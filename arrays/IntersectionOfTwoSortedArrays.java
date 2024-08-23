@@ -1,6 +1,6 @@
 import java.util.*;
 
-import pcph.removeduplicates;
+
 public class IntersectionOfTwoSortedArrays {
     public static void main(String[] args) {
        //for the intersection of two sorted arrays
