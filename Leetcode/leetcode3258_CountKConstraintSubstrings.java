@@ -2,7 +2,7 @@ package Leetcode;
 
 import java.util.Scanner;
 
-public class CountKConstraintSubstrings {
+public class leetcode3258_CountKConstraintSubstrings {
     public int CountKConstraint(String s, int k){
         int n=s.length();
         int subStringsCount=0;
@@ -36,7 +36,7 @@ public class CountKConstraintSubstrings {
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        CountKConstraintSubstrings obj = new CountKConstraintSubstrings();
+        leetcode3258_CountKConstraintSubstrings obj = new leetcode3258_CountKConstraintSubstrings();
         String s=sc.nextLine();
         int k=sc.nextInt();
         int ans=obj.CountKConstraint(s,k);
