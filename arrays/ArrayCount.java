@@ -49,4 +49,5 @@ public class ArrayCount {
         System.out.println("Count of x : "+ countOccurence(arr, x));
         System.out.println("last occurence of x : "+ lastOccurence(arr, x));
     }
+    
 }
