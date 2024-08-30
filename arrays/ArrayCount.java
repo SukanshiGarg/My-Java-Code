@@ -34,6 +34,7 @@ public class ArrayCount {
     }
     
     public static void main(String []args){
+        
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the size of the array: ");
         int n=sc.nextInt();
@@ -49,5 +50,5 @@ public class ArrayCount {
         System.out.println("Count of x : "+ countOccurence(arr, x));
         System.out.println("last occurence of x : "+ lastOccurence(arr, x));
     }
-    
+
 }
