@@ -1,6 +1,6 @@
 /*
 
-linK: https://github.com/B1bhu1O1/Coding-Ninjas-Solution-Java-DSA-Premium/tree/main
+linK: https://github.com/B1bhu1O1/Coding-Ninja3s-Solution-Java-DSA-Premium/tree/main
 A. Vanya and Cubes
 time limit per test1 second
 memory limit per test256 megabytes
