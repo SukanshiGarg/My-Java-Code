@@ -1,4 +1,3 @@
-import java.util.*;
 public class maxPrefix2{
     public static void main(String[] args) {
         int arr[]={3,4,2,9,6,10};
