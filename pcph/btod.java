@@ -12,6 +12,8 @@ public class btod {
             placeValue=2*placeValue;
         }
         System.out.println(ans);
+
+        
     }
     
 }
