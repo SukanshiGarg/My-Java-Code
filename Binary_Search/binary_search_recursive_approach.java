@@ -5,6 +5,8 @@ public class binary_search_recursive_approach {
         int[] arr = {1, 3, 5, 7, 9, 11, 13};
         int target = 7;
         int result = binarySearch(arr, target, 0, arr.length - 1);
+
+        
     }
 
     //recursive binary search functions
