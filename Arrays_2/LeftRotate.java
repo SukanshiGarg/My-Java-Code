@@ -12,6 +12,8 @@ public class LeftRotate {
         }
     }
     public static void leftrotation(int arr[],int k){
+
+        
         int temp[]=new int[k];
         int n=arr.length;
 
