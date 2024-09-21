@@ -37,6 +37,9 @@ public class Cp_1368A_CAgreaterthanB {
             System.out.println(result);
         }
         
+
+
+        
         
         sc.close();
     }
