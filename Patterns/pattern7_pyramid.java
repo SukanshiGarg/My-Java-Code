@@ -32,6 +32,8 @@ public class pattern7_pyramid {
         int row=1;
         int spaces=n-1;
         int star=1;
+
+
         while(row<=n){
           //spaces
           int i=1;
@@ -39,6 +41,8 @@ public class pattern7_pyramid {
             System.out.print("  ");
             i++;
           }
+
+          
           //stars
           int j=1;
           while(j<=star){
