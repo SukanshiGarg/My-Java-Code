@@ -5,8 +5,7 @@ public class binary_search_iterative_approach {
         //pre requirement : Sorted array must be present
     int arr[]={1,2,3,4,5,6,7};
     int low=0;
-    int high=arr.length-1;
-    int target=5;
+    int high=arr.length-1;    int target=5;
     int flag=0;
 
     while(low<=high){
